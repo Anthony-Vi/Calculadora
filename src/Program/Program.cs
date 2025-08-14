@@ -8,6 +8,7 @@ public class Division
 
 {
     public static double Divide(int a, int b)
+    //Esta clase implementa la operacion division
     {
         return (double)a / b;
     }
